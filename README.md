@@ -14,5 +14,4 @@ e. Display the status of Stack
 f. Exit
 
 Support the program with appropriate functions for each of the above
-
 operations
