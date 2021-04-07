@@ -1,7 +1,9 @@
 # lab_program3.3
 # Design, Develop and Implement a menu driven Program in C for the following operations onSTACK of Integers (Array Implementation of Stack with maximum size MAX)
 
-a. Push an Element on to Stack b. Pop an Element from Stack
+a. Push an Element on to Stack
+
+ b. Pop an Element from Stack
 
 c. Demonstrate how Stack can be used to check Palindrome
 
