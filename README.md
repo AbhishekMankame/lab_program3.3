@@ -1,4 +1,4 @@
-# lab_program3.3
+# lab_program_3.3
 # Design, Develop and Implement a menu driven Program in C for the following operations onSTACK of Integers (Array Implementation of Stack with maximum size MAX)
 
 a. Push an Element on to Stack
